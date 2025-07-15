@@ -6,7 +6,7 @@ I am transitioning from Test Management to a career in cybersecurity as I have a
 ## Objective
 
 
-My career in IT and my recent bootcamp has deepened my passion for cybersecurity, and I am now eager to start work in this industry.
+My career in IT and my recent CAPSLOCK bootcamp has deepened my passion for cybersecurity, and I am now eager to start work in this industry.
 
 ## Skills
 
@@ -15,13 +15,11 @@ My career in IT and my recent bootcamp has deepened my passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | Deny public S3 buckets                      | <a href="https://github.com/CryptoQ212/no-public-s3">No-public-S3</a>|
 | Block open security groups                  | <a href="https://github.com/CryptoQ212/No-open-sg">No-open-sg</a>|
-| Incident Response Planning and Execution    | Incident Response</a>|
-| OSINT CTF  Review                           | OSINT Review Notes</a>|
-|  Created AWS account, Set up IAM Policy, security alerts, CloudTrail, CloudFormation and CloudWatch | AWS Account</a>|
+| Basic Control Mapping                       | Control Mapping</a>|
+| OSINT CTF competition review                | OSINT CTF writeup</a>|
+| Created AWS account, Set up IAM policy, security alerts, CloudTrail, CloudFormation and CloudWatch | AWS Account set up</a>|
 
   
-
-
 ## Tools
 
 ### Network
@@ -33,7 +31,7 @@ My career in IT and my recent bootcamp has deepened my passion for cybersecurity
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
  </div>
 
 ### SIEM
@@ -46,7 +44,7 @@ My career in IT and my recent bootcamp has deepened my passion for cybersecurity
 ### Test
 <div>
     <img src="https://img.shields.io/badge/-Qualys-777BB4?&style=for-the-badge&logo=Qualys&logoColor=white" />
-    <img src="https://img.shields.io/badge/-VMAS-000000?&style=for-the-badge&logo=VMASlogoColor=white" />
+    <img src="https://img.shields.io/badge/-VMAS-000000?&style=for-the-badge&logo=GreenbonelogoColor=white" />
     <img src="https://img.shields.io/badge/-Nessus-000000?&style=for-the-badge&logo=Nessus&logoColor=white" />
     <img src="https://img.shields.io/badge/-SAST Sonarcube-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-EF3B2D?&style=for-the-badge&logo=Nmap&logoColor=white" />
@@ -56,13 +54,14 @@ My career in IT and my recent bootcamp has deepened my passion for cybersecurity
 
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCSK-007ACC?&style=for-the-badge&logo=CloudSecurityAlliance&logoColor=white" />
-<img src="https://img.shields.io/badge/-CISMP-4D4D4D?&style=for-the-badge&logo=BCS&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCSK-007ACC?&style=for-the-badge&logo=CSA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CISMP-4D4D4D?&style=for-the-badge&logo=BritishComputerSociety&logoColor=white" />
 <img src="https://img.shields.io/badge/-ISO 27001-006400?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
 - Deny public S3 buckets                    
 - Block open security groups 
-- Incident Response
-- OSINT Review Notes
+- Basic Control Mapping
+- OSINT CTF writeup
+- AWS Account set up
