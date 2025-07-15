@@ -13,10 +13,9 @@ My career in IT and my recent bootcamp has deepened my passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Verifying S3 bucket is not set to public              | <a href="https://github.com/CryptoQ212/no-public-s3)">No-public-S3</a>|
-| Logs all the keyboard and mouse strokes to a file     | <a href="https://google.com">Keylogger Software</a>|
+| Verify S3 bucket is not set to public              | <a href="https://github.com/CryptoQ212/no-public-s3)">No-public-S3</a>|
+|      | <a href="https://google.com">Keylogger Software</a>|
 | Web application encrypts/decrypts textual information | <a href="https://google.com">Text Encryption Using Cryptographic Algorithms</a>|
-| Sotware shuffles pixels using crptographic keys       | <a href="https://google.com">Image Encryption</a>|
 | Incident Response Planning and Execution              | <a href="https://google.com">Incident Response</a>|
 | OSINT CTF  Review                                     | <a href="https://google.com">OSINT Review Notes</a>|         
 
@@ -60,9 +59,7 @@ My career in IT and my recent bootcamp has deepened my passion for cybersecurity
 </div>
 
 ## Projects
-- AWS S3 Misconfiguration 
+- Verify S3 bucket is not set to public  
 - Kelogger Software
-- Text Encryption Using Cryptographic Algorithms
-- Image Encryption
 - Incident Response
 - OSINT Review Notes
