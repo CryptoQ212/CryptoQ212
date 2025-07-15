@@ -13,8 +13,8 @@ My career in IT and my recent bootcamp has deepened my passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Deny public S3 buckets                      | <a href="https://github.com/CryptoQ212/no-public-s3)">No-public-S3</a>|
-| Block open security groups                  | <a href="https://github.com/CryptoQ212/No-open-sg)">No-open-sg</a>|
+| Deny public S3 buckets                      | <a href="https://github.com/CryptoQ212/no-public-s3">No-public-S3</a>|
+| Block open security groups                  | <a href="https://github.com/CryptoQ212/No-open-sg">No-open-sg</a>|
 | Incident Response Planning and Execution    | Incident Response</a>|
 | OSINT CTF  Review                           | OSINT Review Notes</a>|
 |  Created AWS account, Set up IAM Policy, security alerts, CloudTrail, CloudFormation and CloudWatch | AWS Account</a>|
