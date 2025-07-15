@@ -13,11 +13,10 @@ My career in IT and my recent bootcamp has deepened my passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Verify S3 bucket is not set to public              | <a href="https://github.com/CryptoQ212/no-public-s3)">No-public-S3</a>|
-|      | <a href="https://google.com">Keylogger Software</a>|
-| Web application encrypts/decrypts textual information | <a href="https://google.com">Text Encryption Using Cryptographic Algorithms</a>|
-| Incident Response Planning and Execution              | <a href="https://google.com">Incident Response</a>|
-| OSINT CTF  Review                                     | <a href="https://google.com">OSINT Review Notes</a>|         
+| Deny public S3 buckets                      | <a href="https://github.com/CryptoQ212/no-public-s3)">No-public-S3</a>|
+| Block open security groups                  | <a href="https://github.com/CryptoQ212/No-open-sg)">No-open-sg</a>|
+| Incident Response Planning and Execution    | <a href="https://google.com">Incident Response</a>|
+| OSINT CTF  Review                           | <a href="https://google.com">OSINT Review Notes</a>|         
 
 ## Tools
 
@@ -40,7 +39,7 @@ My career in IT and my recent bootcamp has deepened my passion for cybersecurity
     <img src="https://img.shields.io/badge/-QRadar-005571?&style=for-the-badge&logo=QRadar&logoColor=white" />
 </div>
 
-### TEST
+### Test
 <div>
     <img src="https://img.shields.io/badge/-Qualys-777BB4?&style=for-the-badge&logo=Qualys&logoColor=white" />
     <img src="https://img.shields.io/badge/-VMAS-000000?&style=for-the-badge&logo=VMASlogoColor=white" />
@@ -59,7 +58,7 @@ My career in IT and my recent bootcamp has deepened my passion for cybersecurity
 </div>
 
 ## Projects
-- Verify S3 bucket is not set to public  
-- Kelogger Software
+- Deny public S3 buckets                    
+- Block open security groups 
 - Incident Response
 - OSINT Review Notes
