@@ -17,7 +17,7 @@ My career in IT and my recent CAPSLOCK bootcamp has deepened my passion for cybe
 | Detect and block 0.0.0.0/0 open security groups using policy-as-code  | <a href="https://github.com/CryptoQ212/No-open-sg">No-open-sg</a>|
 | Learn how to connect NIST 800                                         | Basic Control Mapping</a>|
 | OSINT CTF competition review                                          | OSINT CTF writeup</a>|
-| Created AWS account, Set up IAM policy, security alerts, CloudTrail, CloudFormation and CloudWatch | AWS Account set up</a>|
+| Create AWS account, set up IAM policy, security alerts, CloudTrail, CloudFormation and CloudWatch | AWS Account set up</a>|
 
   
 ## Tools
