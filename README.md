@@ -15,8 +15,12 @@ My career in IT and my recent bootcamp has deepened my passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | Deny public S3 buckets                      | <a href="https://github.com/CryptoQ212/no-public-s3)">No-public-S3</a>|
 | Block open security groups                  | <a href="https://github.com/CryptoQ212/No-open-sg)">No-open-sg</a>|
-| Incident Response Planning and Execution    | <a href="https://google.com">Incident Response</a>|
-| OSINT CTF  Review                           | <a href="https://google.com">OSINT Review Notes</a>|         
+| Incident Response Planning and Execution    | Incident Response</a>|
+| OSINT CTF  Review                           | OSINT Review Notes</a>|
+|  Created AWS account, Set up IAM Policy, security alerts, CloudTrail, CloudFormation and CloudWatch | AWS Account</a>|
+
+  
+
 
 ## Tools
 
