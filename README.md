@@ -13,10 +13,10 @@ My career in IT and my recent CAPSLOCK bootcamp has deepened my passion for cybe
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Deny public S3 buckets                      | <a href="https://github.com/CryptoQ212/no-public-s3">No-public-S3</a>|
-| Block open security groups                  | <a href="https://github.com/CryptoQ212/No-open-sg">No-open-sg</a>|
-| Basic Control Mapping                       | Control Mapping</a>|
-| OSINT CTF competition review                | OSINT CTF writeup</a>|
+| Use Rego and Conftest to prevent public S3 bucket configs             | <a href="https://github.com/CryptoQ212/no-public-s3">No-public-S3</a>|
+| Detect and block 0.0.0.0/0 open security groups using policy-as-code  | <a href="https://github.com/CryptoQ212/No-open-sg">No-open-sg</a>|
+| Learn how to connect NIST 800                                         | Basic Control Mapping</a>|
+| OSINT CTF competition review                                          | OSINT CTF writeup</a>|
 | Created AWS account, Set up IAM policy, security alerts, CloudTrail, CloudFormation and CloudWatch | AWS Account set up</a>|
 
   
